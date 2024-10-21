@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Advanced C**
 
-- 👨‍💻 All of my projects are available at [www.jansekne.com](www.jansekne.com)
+- 👨‍💻 More about me available at [www.jansekne.com](www.jansekne.com)
 
 - 📫 How to reach me **sekne50@gmail.com**
 
