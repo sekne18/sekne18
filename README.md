@@ -29,20 +29,22 @@ Here you can track some of the projects I'm working on and the different technol
 
 ---
 
-" Projects under 42 School Curriculum
-" ===================================
-+-------------------+------------+------------------+
+## 42 School Projects 🌟
+
+Here’s a list of projects completed as part of the 42 School curriculum:
+
 | Project Name      | Language   | Status           |
-+-------------------+------------+------------------+
-| Libft             | C          | ✅ Completed     |
-| Born2BeRoot       | VirtualBox | ✅ Completed     |
-| Printf            | C          | ✅ Completed     |
-| get_next_line     | C          | ✅ Completed     |
-| push_swap         | C          | ✅ Completed     |
-| FdF               | C          | 🔄 In Progress   |
-| minitalk          | C          | ❌ Not Started   |
-+-------------------+------------+------------------+
+|-------------------|------------|------------------|
+| Libft             | C          | ✅ Completed      |
+| Born2BeRoot       | VirtualBox | ✅ Completed      |
+| Printf            | C          | ✅ Completed      |
+| get_next_line     | C          | ✅ Completed      |
+| push_swap         | C          | ✅ Completed      |
+| FdF               | C          | 🔄 In Progress    |
+| minitalk          | C          | ❌ Not Started    |
+
 - [View Repository](https://github.com/sekne18/42)
+
 ---
 
 ## Technologies 💻
