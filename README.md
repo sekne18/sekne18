@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **sekne50@gmail.com**
 
-- ⚡ Fun fact **I think I'm funny :)**
+- ⚡ Fun fact **I think I'm funny 🤡**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
