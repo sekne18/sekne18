@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sekne18" alt="sekne18" /></a> </p>
 
-- 🔭 I’m currently working on 42 Common Core [FdF](github.com/sekne18/FdF)
+- 🔭 I’m currently working on 42 Common Core [FdF](github.com/sekne18/42)
 
-- 🌱 I’m currently learning **C,**
+- 🌱 I’m currently learning **Advanced C**
 
 - 👨‍💻 All of my projects are available at [www.jansekne.com](www.jansekne.com)
 
