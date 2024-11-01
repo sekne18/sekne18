@@ -33,13 +33,15 @@ Here’s a list of projects completed as part of the 42 School curriculum:
 
 | Project Name      | Language   | Status           |
 |-------------------|------------|------------------|
-| Libft             | C          | ✅ Completed      |
-| Born2BeRoot       | VirtualBox | ✅ Completed      |
-| Printf            | C          | ✅ Completed      |
-| get_next_line     | C          | ✅ Completed      |
-| push_swap         | C          | ✅ Completed      |
-| FdF               | C          | 🔄 In Progress    |
-| minitalk          | C          | ❌ Not Started    |
+| Libft             | C          | ✅ Completed     |
+| Born2BeRoot       | VirtualBox | ✅ Completed     |
+| Printf            | C          | ✅ Completed     |
+| get_next_line     | C          | ✅ Completed     |
+| push_swap         | C          | ✅ Completed     |
+| FdF               | C          | ✅ Completed     |
+| Minitalk          | C          | ✅ Completed     |
+| Philosophers      | C          | 🔄 In Progress   |
+| Minishell         | C          | ❌ Not Started   |
 
 - [View Repository](https://github.com/sekne18/42)
 
