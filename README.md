@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sekne18" alt="sekne18" /></a> </p>
 
-- 🔭 I’m currently working on 42 Common Core [Philosophers](https://github.com/sekne18/42)
+- 🔭 I’m currently working on 42 Common Core [Minishell](https://github.com/sekne18/42)
 
 - 🌱 I’m currently learning **Advanced C**
 
