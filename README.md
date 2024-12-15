@@ -37,11 +37,14 @@ Here’s a list of projects completed as part of the 42 School curriculum:
 | Born2BeRoot       | VirtualBox | ✅ Completed     |
 | Printf            | C          | ✅ Completed     |
 | get_next_line     | C          | ✅ Completed     |
+| Exam 02           | C          | ✅ Completed     |
 | push_swap         | C          | ✅ Completed     |
 | FdF               | C          | ✅ Completed     |
 | Minitalk          | C          | ✅ Completed     |
+| Exam 03           | C          | ✅ Completed     |
 | Philosophers      | C          | 🔄 In Progress   |
-| Minishell         | C          | ❌ Not Started   |
+| Minishell         | C          | 🔄 In Progress   |
+| Exam 04           | C          | ❌ Not Started   |
 
 - [View Repository](https://github.com/sekne18/42)
 
