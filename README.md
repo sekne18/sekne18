@@ -13,8 +13,6 @@
 
 - 📫 How to reach me **sekne50@gmail.com**
 
-- ⚡ Fun fact **I think I'm funny 🤡**
-
 ## Connect with me
 <p align="left">
 <a href="https://linkedin.com/in/jan-sekne" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jan-sekne" height="30" width="40" /></a>
