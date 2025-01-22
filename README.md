@@ -37,12 +37,15 @@ Here’s a list of projects completed as part of the 42 School curriculum:
 | get_next_line     | C          | ✅ Completed     |
 | Exam 02           | C          | ✅ Completed     |
 | push_swap         | C          | ✅ Completed     |
-| FdF               | C          | ✅ Completed     |
-| Minitalk          | C          | ✅ Completed     |
-| Exam 03           | C          | ✅ Completed     |
-| Philosophers      | C          | 🔄 In Progress   |
-| Minishell         | C          | 🔄 In Progress   |
-| Exam 04           | C          | ❌ Not Started   |
+| FdF               | C          | ✅ 120 Points    |
+| Minitalk          | C          | ✅ 125 Points    |
+| Exam 03           | C          | ✅ Passed        |
+| Philosophers      | C          | ✅ 100 Points    |
+| Minishell         | C          | ✅ 125 Points    |
+| Exam 04           | C          | 🔄 In Progress   |
+| MiniRT            | C          | 🔄 In Progress   |
+| CPP 0-4           | C++        | 🔄 In progress   |
+| Net Practice      | /          | ❌ Not Started   |
 
 - [View Repository](https://github.com/sekne18/42)
 
