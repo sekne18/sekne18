@@ -29,23 +29,28 @@
 
 Here’s a list of projects completed as part of the 42 School curriculum:
 
-| Project Name      | Language   | Status           |
+| Project Name      | Language   | Grade            |
 |-------------------|------------|------------------|
-| Libft             | C          | ✅ Completed     |
-| Born2BeRoot       | VirtualBox | ✅ Completed     |
-| Printf            | C          | ✅ Completed     |
-| get_next_line     | C          | ✅ Completed     |
-| Exam 02           | C          | ✅ Completed     |
-| push_swap         | C          | ✅ Completed     |
+| Libft             | C          | ✅ 125 Points    |
+| Born2BeRoot       | VirtualBox | ✅ 100 Points    |
+| Printf            | C          | ✅ 100 Points    |
+| get_next_line     | C          | ✅ 100 Points    |
+| Exam 02           | C          | ✅ Passed        |
+| push_swap         | C          | ✅ 94 Points     |
 | FdF               | C          | ✅ 120 Points    |
 | Minitalk          | C          | ✅ 125 Points    |
 | Exam 03           | C          | ✅ Passed        |
 | Philosophers      | C          | ✅ 100 Points    |
 | Minishell         | C          | ✅ 125 Points    |
-| Exam 04           | C          | 🔄 In Progress   |
-| MiniRT            | C          | 🔄 In Progress   |
+| Exam 04           | C          | ✅ Passed        |
+| MiniRT            | C          | ✅ Passed        |
 | CPP 0-4           | C++        | 🔄 In progress   |
-| Net Practice      | /          | ❌ Not Started   |
+| Net Practice      | /          | 🔄 In progress   |
+| Exam 05           | C          | ❌ Not Started   |
+| ft_irc            | C++        | ❌ Not Started   |
+| CPP 5-9           | C++        | 🔄 In progress   |
+| Inception         | Docker     | ❌ Not Started   |
+| ft_transendence   | Tech-Stack | ❌ Not Started   |
 
 - [View Repository](https://github.com/sekne18/42)
 
