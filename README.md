@@ -43,8 +43,8 @@ Here’s a list of projects completed as part of the 42 School curriculum:
 | Philosophers      | C          | ✅ 100 Points    |
 | Minishell         | C          | ✅ 125 Points    |
 | Exam 04           | C          | ✅ Passed        |
-| MiniRT            | C          | ✅ Passed        |
-| CPP 0-4           | C++        | ✅ Passed        |
+| MiniRT            | C          | ✅ 125 Points    |
+| CPP 0-4           | C++        | ✅ 92 Points     |
 | Net Practice      | /          | ✅ Passed        |
 | Exam 05           | C++        | ❌ Not Started   |
 | Webserv           | C++        | 🔄 In progress   |
