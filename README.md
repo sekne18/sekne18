@@ -44,13 +44,14 @@ Here’s a list of projects completed as part of the 42 School curriculum:
 | Minishell         | C          | ✅ 125 Points    |
 | Exam 04           | C          | ✅ Passed        |
 | MiniRT            | C          | ✅ Passed        |
-| CPP 0-4           | C++        | 🔄 In progress   |
-| Net Practice      | /          | 🔄 In progress   |
-| Exam 05           | C          | ❌ Not Started   |
-| ft_irc            | C++        | ❌ Not Started   |
+| CPP 0-4           | C++        | ✅ Passed        |
+| Net Practice      | /          | ✅ Passed        |
+| Exam 05           | C++        | ❌ Not Started   |
+| Webserv           | C++        | 🔄 In progress   |
 | CPP 5-9           | C++        | 🔄 In progress   |
 | Inception         | Docker     | ❌ Not Started   |
-| ft_transendence   | Tech-Stack | ❌ Not Started   |
+| ft_transendence   | Full-Stack | ❌ Not Started   |
+| Exam 06           | C          | ❌ Not Started   |
 
 - [View Repository](https://github.com/sekne18/42)
 
