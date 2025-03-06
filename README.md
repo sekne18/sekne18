@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jan</h1>
-<h3 align="center">A passionate Software Engineer from Slovenia</h3>
+<h3 align="center">A passionate Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sekne18&label=Profile%20views&color=0e75b6&style=flat" alt="sekne18" /> </p>
 
