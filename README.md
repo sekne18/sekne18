@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on 42 Common Core [Webserv](https://github.com/sekne18/42)
 
-- 🌱 I’m currently learning **Advanced C**
+- 🌱 I’m currently learning **C++ and Networking**
 
 - 👨‍💻 All of my projects are available at [www.jansekne.com](www.jansekne.com)
 
