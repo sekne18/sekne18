@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **C++ and Networking**
 
-- 👨‍💻 All of my projects are available at [www.jansekne.com](https;//www.jansekne.com)
+- 👨‍💻 All of my projects are available at [www.jansekne.com](https://www.jansekne.com)
 
 - 📫 How to reach me **sekne50@gmail.com**
 
