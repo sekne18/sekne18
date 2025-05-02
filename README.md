@@ -46,11 +46,11 @@ Here’s a list of projects completed as part of the 42 School curriculum:
 | MiniRT            | C          | ✅ 125 Points    |
 | CPP 0-4           | C++        | ✅ 92 Points     |
 | Net Practice      | /          | ✅ 100 Points    |
-| Exam 05           | C++        | ❌ Not Started   |
-| Webserv           | C++        | 🔄 In progress   |
-| CPP 5-9           | C++        | 🔄 In progress   |
-| Inception         | Docker     | ❌ Not Started   |
-| ft_transendence   | Full-Stack | ❌ Not Started   |
+| Exam 05           | C++        | ✅ Passed        |
+| Webserv           | C++        | ✅ 125 Points    |
+| CPP 5-9           | C++        | ✅ 100 Points    |
+| Inception         | Docker     | 🔄 In progress   |
+| ft_transendence   | Full-Stack | 🔄 In progress   |
 | Exam 06           | C          | ❌ Not Started   |
 
 - [View Repository](https://github.com/sekne18/42)
