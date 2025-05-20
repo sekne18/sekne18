@@ -49,9 +49,9 @@ Here’s a list of projects completed as part of the 42 School curriculum:
 | Exam 05           | C++        | ✅ Passed        |
 | Webserv           | C++        | ✅ 125 Points    |
 | CPP 5-9           | C++        | ✅ 100 Points    |
-| Inception         | Docker     | 🔄 In progress   |
+| Inception         | Docker     | ✅ 110 Points    |
 | ft_transendence   | Full-Stack | 🔄 In progress   |
-| Exam 06           | C          | ❌ Not Started   |
+| Exam 06           | C          | ✅ Passed        |
 
 - [View Repository](https://github.com/sekne18/42)
 
