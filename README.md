@@ -5,11 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sekne18" alt="sekne18" /></a> </p>
 
-- 🔭 I’m currently working on 42 Common Core [ft_transcendence](https://github.com/sekne18/42)
+- 🔭 I’m currently working on 42 Specialisations [TokenizerAry](https://github.com/sekne18/TokenizerArt)
 
-- 🌱 I’m currently learning **C++ and Networking**
-
-- 👨‍💻 All of my projects are available at [www.jansekne.com](https://www.jansekne.com)
+- 🌱 I’m currently learning **Blockchain Technology**
 
 - 📫 How to reach me **sekne50@gmail.com**
 
@@ -50,7 +48,7 @@ Here’s a list of projects completed as part of the 42 School curriculum:
 | Webserv           | C++        | ✅ 125 Points    |
 | CPP 5-9           | C++        | ✅ 100 Points    |
 | Inception         | Docker     | ✅ 110 Points    |
-| ft_transendence   | Full-Stack | 🔄 In progress   |
+| ft_transendence   | Full-Stack | ✅ 125 Points    |
 | Exam 06           | C          | ✅ Passed        |
 
 - [View Repository](https://github.com/sekne18/42)
