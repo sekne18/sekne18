@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sekne18" alt="sekne18" /></a> </p>
 
-- 🔭 I’m currently working on 42 Specialisations [TokenizerArt](https://github.com/sekne18/TokenizerArt)
+- 🔭 I’m currently working @ DPG Media IT
 
-- 🌱 I’m currently learning **Blockchain Technology**
+- 🌱 I’m currently learning **Software Architecture**
 
 - 📫 How to reach me **sekne50@gmail.com**
 
